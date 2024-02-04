@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me: using github id
 - 😄 Pronouns: he!
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm new to github!
 
 <!---
 Lakshmivasan07/Lakshmivasan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
